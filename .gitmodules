@@ -1,5 +1,4 @@
-
-
-[submodule "dist"]
-    path = dist
+[submodule "submodule-name"]
+    path = submodule-name
     url = https://github.com/GuillermoGodoyPro/Clima-app-fetchAPI
+
