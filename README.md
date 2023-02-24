@@ -12,7 +12,7 @@ Clásica app de clima creado con React js y fetch API.
 ## Ver ejemplo en vivo
 - [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
-## Contratación
+## Contrataciones
 Puedes escribirme a guillermo.rgo92@gmail.com
 you can write to me at guillermo.rgo92@gmail.com
 
