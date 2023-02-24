@@ -32,7 +32,7 @@ function App() {
         guardarResultado(resultado)
         guardarConsultar(false)
 
-        // Detecta si hubo resultados correctos en consulta
+        // Detecta si hubo resultados correctos en la consulta
       
         if(resultado.cod === "404"){
           guardarError(true)
